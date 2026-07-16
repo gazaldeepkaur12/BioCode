@@ -1,34 +1,34 @@
-# BioCode 🧬
-### Applying coding skills to biological concepts
+# BioCode 🧬💻
 
-Welcome to my BioCode repository!
+Hi! Welcome to my repository. 
 
-I'm documenting my journey into computational biology, programming, and bioinformatics while preparing for undergraduate studies. This repository will grow as I learn, build projects, and explore the intersection of biology and technology.
+I’m currently prepping for college and using this space to document my journey at the intersection of biology, programming, and bioinformatics. As I learn new concepts, tackle projects, and figure out how tech and life sciences work together, this repository will grow with me.
 
-## 🌱 Currently Learning
+## 🚀 What I'm Learning Right Now
+I like to keep my hands full. Currently, I am diving into:
+* **Python** via Harvard's CS50P course.
+* **Computational Biology** basics.
+* **Arduino & Embedded Systems** for hardware exploration.
+* **GitHub** for version control and open-source practice.
+* **German** (just for study abrad oppurtunities!).
 
-- 🐍 CS50P (Python)
-- 🇩🇪 German (A2 → B1 → B2)
-- 🤖 Arduino & Embedded Systems
-- 💻 GitHub
-- 🧬 Computational Biology Fundamentals
+## 🛠️ Current Projects
+Here is what I am actively building right now:
 
-## 🎯 Goals
+* **DNA Sequence Analyzer** 
+  A Python program I designed to help analyze and break down DNA sequences.
+* **Blood Compatibility Checker** 
+  A Python script that calculates and verifies blood type compatibility for medical transfusions.
 
-- Build bioinformatics projects
-- Learn machine learning for biology
-- Explore biomechanics and biomedical engineering
-- Contribute to scientific research
-- Document my learning journey
+## 🎯 My Big Goals
+Looking ahead, I want to use this foundation to:
+* Build practical, open-source bioinformatics tools.
+* Explore how machine learning can be applied to biological data.
+* Dive deeper into biomechanics and biomedical engineering.
+* Document my learning transparently so it helps other students.
+* Eventually contribute to real scientific research.
 
-## 📂 Current Projects
+***
 
-### 🧬 DNA Sequence Analyzer
-A Python program for analyzing DNA sequences.
+*This repo is a living document. It’s going to get bigger, messier, and much more advanced as I start new research and projects!*
 
-### 🩸 Blood Compatibility Checker
-A Python program that determines blood type compatibility for transfusions.
-
----
-
-> 🚀 This repository is a long-term learning portfolio and will continue to grow with new projects and research.
