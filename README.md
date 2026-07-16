@@ -1,4 +1,4 @@
-# BioCode 🧬💻
+# BioCode 🧬
 
 Hi! Welcome to my repository. 
 
