@@ -10,7 +10,7 @@ I like to keep my hands full. Currently, I am diving into:
 * **Computational Biology** basics.
 * **Arduino & Embedded Systems** for hardware exploration.
 * **GitHub** for version control and open-source practice.
-* **German** (just for study abrad oppurtunities!).
+* **German** (for study abroad oppurtunities!).
 
 ## 🛠️ Current Projects
 Here is what I am actively building right now:
